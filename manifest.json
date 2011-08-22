@@ -5,7 +5,7 @@
   "content_scripts": [
     {
         "matches": [ "http://gyazo.com/*" ],
-        "js": [ "gyadoblock.js" ]
+        "css": [ "gyadoblock.css" ]
     }
   ]
 }
