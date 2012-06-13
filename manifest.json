@@ -1,6 +1,6 @@
 {
   "name": "Gyadoblock",
-  "version": "1.2",
+  "version": "1.3",
   "description": "This extension blocks the gyazo ads.",
   "content_scripts": [
     {
