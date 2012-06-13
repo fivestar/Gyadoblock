@@ -1,4 +1,4 @@
-.ads, .ad, .premium, #buttons {
+.ads, .ad, .premium, #buttons, #download, .dlbtn {
     display: none;
     visibility: hidden;
 }
